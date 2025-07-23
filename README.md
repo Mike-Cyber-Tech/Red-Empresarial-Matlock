@@ -210,7 +210,7 @@ Presupuesto estimado total: 12.500 €
 
 Desarrollado por: \Mike-Cyber-Tech
 GitHub: [https://github.com/Mike-Cyber-Tech](https://github.com/Mike-Cyber-Tech)
-Correo: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
+
 
 ---
 
